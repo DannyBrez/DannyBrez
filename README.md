@@ -1,0 +1,3 @@
+- Hi, I’m Daniel Bresnahan
+- I'm a student at Edgehill University studying Software Engineering. Currently I am waiting for my final results.
+- While awaiting my results I like to develop side projects such as video games using Unity and Unreal. 
